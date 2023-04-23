@@ -1,6 +1,8 @@
 import openai
-import config
-openai.api_key = config.OPENAI_API_KEY
+from decouple import config
+
+
+openai.api_key = config("API_KEY")
 
 prompt="""quais são as bibliotecas de deep learning mais comuns?
 exiba uma lista:

@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 import requests
 import openai
-import config
+from decouple import config
 import argparse
 from pprint import pprint
-openai.api_key = config.OPENAI_API_KEY
+
+
+openai.api_key = config("API_KEY")
 
 def file_upload(filename, purpose='fine-tune'):
     resp = openai.File.create(purpose=purpose, file=open(filename))
