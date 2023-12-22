@@ -1,0 +1,6 @@
+DE: Representante do projeto
+PARA: Potenciais financiadores
+ASSUNTO: Solicitação de Recursos
+INTENÇÃO: Solicitamos financiamento para a realização do projeto
+OBJETIVO: Mostrar os benefícios que o projeto pode trazer para a sociedade
+TOM: Profissional e respeitoso

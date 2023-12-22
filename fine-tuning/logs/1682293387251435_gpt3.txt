@@ -1,0 +1,20 @@
+f2e45216-dff0-472e-ba8e-e916866f5d67
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Solicitar aumento de salário pro chefe
+
+TÓPICOS:
+
+
+----------
+
+Assunto: Solicitação para revisão do salário
+De: [Colaborador]
+Para: [Chefe]
+Intenção: Solicitar uma revisão do nível atual do salário
+Objetivo: Conseguir aumento salarial adequado para as contribuições atuais e futuras
+Tom: Respeitoso  e Fraterno

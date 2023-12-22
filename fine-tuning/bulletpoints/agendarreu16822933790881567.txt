@@ -1,0 +1,6 @@
+1. Assunto: Agendamento de Reunião
+2. De: (Digite o nome de quem está enviando o e-mail)
+3. Para: (Digite o nome da pessoa para a qual o e-mail está sendo enviado)
+4. Intenção: Propor um horário para a realização da reunião
+5. Objetivo: Definir datas, locais e assuntos a serem discutidos
+6. Tom: Total comprometimento e profissionalismo.

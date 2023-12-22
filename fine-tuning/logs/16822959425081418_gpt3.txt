@@ -1,0 +1,21 @@
+49cabcb8-f194-49a6-a0a9-6e38205de2ca
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Apresentar ideias para melhorar a produtividade
+
+TÓPICOS:
+
+
+----------
+
+1. DE:  Solicitando a opinião e sugestão para melhorar a produtividade
+2. PARA: Equipe de liderança
+3. ASSUNTO: Ideias criativas para melhorar a produtividade
+4. OBJETIVO: Aumentar a produtividade através de estratégias eficazes
+5. INTENÇÃO: Compartilhar as iniciativas principais para aumentar a produtividade
+6. TOM: Profissional, alinhado com a visão da equipe
+7. ESTILO: Abordagem direta, usando exemplos enfáticos

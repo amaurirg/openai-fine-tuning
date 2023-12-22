@@ -1,0 +1,6 @@
+DE: Representante de Projetos
+PARA: Clientes e Colaboradores
+ASSUNTO: Atualizações de Projetos
+INTENÇÃO: Descrever a evolução dos projetos em andamento
+OBJETIVO: Estimular o envolvimento dos clientes e colaboradores 
+TOM: Confiante e positivo

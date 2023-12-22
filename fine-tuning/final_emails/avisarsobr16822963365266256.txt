@@ -1,0 +1,31 @@
+DE: Gerente Geral 
+
+PARA: Colaboradores 
+
+ASSUNTO: Alterações nas Políticas da Empresa 
+
+INTENÇÕES: Avisar sobre as alterações que estão sendo feitas nas políticas da empresa 
+
+OBJETIVOS: Fornecer informações importantes e esclarecer dúvidas sobre as políticas da empresa 
+
+TOM: Respeitoso, claro e objetivo
+
+EMAIL:
+
+Caros Colaboradores,
+
+É com grande satisfação que informamos que estamos fazendo alterações nas nossas políticas da empresa. Estas modificações são fundamentais para melhorar a capacidade de implementação de nossos principais processos.
+
+Para garantir que está tudo bem claro, gostaríamos de esclarecer alguns dos principais pontos da implementação:
+
+* [DETALHES ESPECÍFICOS SOBRE O QUE ESTÁ SENDO MODIFICADO]
+
+Gostaríamos de salientar que nossas intenções são manter os níveis de serviço aos clientes de alta qualidade e facilidade de funcionamento que nossos colaboradores esperam já vêm esperando.
+
+Se você tiver alguma dúvida sobre estas alterações, por favor, não hesite em entrar em contato com qualquer um dos membros da nossa equipe de RH.
+
+Obrigado pela atenção e compreensão.
+
+Atenciosamente, 
+[SEU NOME]
+Gerente Geral da Empresa

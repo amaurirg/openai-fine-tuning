@@ -1,0 +1,11 @@
+DE: Gerente Geral 
+
+PARA: Colaboradores 
+
+ASSUNTO: Alterações nas Políticas da Empresa 
+
+INTENÇÕES: Avisar sobre as alterações que estão sendo feitas nas políticas da empresa 
+
+OBJETIVOS: Fornecer informações importantes e esclarecer dúvidas sobre as políticas da empresa 
+
+TOM: Respeitoso, claro e objetivo

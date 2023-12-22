@@ -2,7 +2,7 @@ import os
 import json
 
 
-src_dir = 'final_emails/'
+src_dir = 'final_emails'
 
 
 def open_file(filepath):
@@ -14,9 +14,9 @@ if __name__ == '__main__':
     files = os.listdir(src_dir)
     data = list()
     for file in files:
-        text = open_file(src_dir + file)
+        text = open_file(f"{src_dir}/{file}")
         chunks = text.split('EMAIL:')
-        info = {'prompt': chunks[0].strip() + '\n\nEMAIL:', 'completion': '\n\n' + chunks[1].strip()}
+        info = {"prompt": f"{chunks[0].strip()}\n\nEMAIL:", "completion": f"\n\n{chunks[1].strip()}"}
         data.append(info)
     with open('emails.jsonl', 'w') as outfile:
         for i in data:

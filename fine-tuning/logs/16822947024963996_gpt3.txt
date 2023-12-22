@@ -1,0 +1,21 @@
+83f212f7-f070-444d-a492-2b02c4c34782
+Dado o seguinte cenário e obedecendo as regras gramaticais do português do Brasil, 
+faça uma lista de tópicos para incluir no email. 
+Os tópicos devem incluir termos como DE, PARA, ASSUNTO, intenções, objetivos, tom e assim por diante. 
+Os tópicos gerados não podem conter erros ortográficos ou de concordância verbal. 
+Seja criativo pois esse é um cenário imaginário!
+
+CENÁRIO: Enviar anúncios sobre eventos
+
+TÓPICOS:
+
+
+----------
+
+• De: Nome 
+• Para: Clientes potenciais 
+• Assunto: Anúncios de Eventos 
+• Intentas: Mostrar aos potenciais clientes o que estamos oferecendo 
+• Objetivo: Convida-los a participar dos eventos 
+• Tom: Profissional e animado 
+• Mensagem Curta: Venha para o nosso evento! Você não vai querer perder!
